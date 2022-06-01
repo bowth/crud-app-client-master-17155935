@@ -1,0 +1,17 @@
+.charts{
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    -webkit-box-shadow: 0px 0px 11px -1px #000000; 
+    box-shadow: 0px 0px 11px -1px #000000;
+}
+.chartItem{
+    padding-bottom: 50px;
+}
+.chartTitle{
+    margin-bottom: 20px;
+    
+}
